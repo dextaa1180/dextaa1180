@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="img/Beauty Demon GIF by Xbox.gif"  />
+<img align="right" height="500" src="img/Beauty Demon GIF by Xbox.gif"  />
 
 ###
 
