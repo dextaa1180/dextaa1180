@@ -1,8 +1,10 @@
-=<h1 align="center">Hello World! 👋</h1>
+<h1 align="center">Hello World! 👋</h1>
 
 ###
 
-<img align="right" height="400" src="img/Beauty Demon GIF by Xbox.gif"  />
+<div align="center">
+  <img height="500" src="img/Beauty Demon GIF by Xbox.gif"  />
+</div>
 
 ###
 
