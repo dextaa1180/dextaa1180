@@ -2,13 +2,7 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
-<div align="center">
-  <img height="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGoxbGhxdWxteGl4djdyZWFrNThyeHE0YzRyZ2U5em1scTN4bTB4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z7wIVXPnpm1DiJDdsU/giphy.gif"  />
-</div>
+<img align="right" height="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhoejdjNWkxNmlxdXV6b2Fpa2N5bGtkcW04ZDNwNnlid3Fwd3J5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/z7wIVXPnpm1DiJDdsU/giphy.gif"  />
 
 ###
 
@@ -87,17 +81,3 @@
 </picture>
 
 ###
-<!--
-**dextaa1180/dextaa1180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
