@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhoejdjNWkxNmlxdXV6b2Fpa2N5bGtkcW04ZDNwNnlid3Fwd3J5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/z7wIVXPnpm1DiJDdsU/giphy.gif"  />
+<img align="right" height="200" src="img/Beauty Demon GIF by Xbox.gif"  />
 
 ###
 
